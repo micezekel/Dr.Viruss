@@ -1,29 +1,13 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/micezekel/micezekel/main/banner.jpg" alt="Profile Banner" width="100%" />
-</p>
+# Hi there 👋 I'm Mic Ezeckel T. Peteros
 
-<!-- PROFILE PHOTO -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/XXXXXXXX?v=4" width="150" style="border-radius:50%" />
-</p>
+## 🎓 About Me
+I'm an Information Technology graduate from the Philippines 🇵🇭.  
+I enjoy learning and building **real-world applications**, especially in mobile, Python, and IoT projects.
 
-<h1 align="center">Hi 👋 I'm Zekel</h1>
-
-<p align="center">
-  Python & Android Developer <br>
-  IoT • Smart Agriculture • Simple & Clean Code
-</p>
-
----
-
-## 👨‍💻 About Me 
-- 📱 Android Studio Developer  
-- 🐍 Python (beginner-friendly projects)  
-- 🌱 Interested in **IoT, Aquaculture, and AgriTech**  
-- 🇵🇭 Philippines  
-
-I love building **simple, functional, and meaningful applications**.
+- 💻 I enjoy coding in **Python** and **Java**
+- 📱 I build Android apps using **Android Studio**
+- 🌱 Interested in **IoT, Smart Agriculture, and Aquaculture Systems**
+- 🚀 Always learning and improving my skills
 
 ---
 
@@ -35,30 +19,28 @@ I love building **simple, functional, and meaningful applications**.
 
 ---
 
-## 📱 Projects
+## 🔧 What I Work On / What I Learned
+Here are some of my projects and school/side works:
+
 - 🌾 **AgriConnect App**  
-  E-commerce style app for farmers to post and sell products  
-  *(Android | Local Storage)*
+  Android app where farmers can post and sell products  
+  *(Local storage, user interaction)*
 
 - 🐟 **IoT Aquaculture Management System**  
-  Vertical stacking with temperature control and QR tracking
+  Vertical stacking system with temperature monitoring and QR tracking
 
-- 🧪 **Python Problem Sets**  
-  Simple Python programs using strings, dictionaries, and functions
-
-⬇️ Check my pinned repositories below ⬇️
+- 🧪 **Python Practice Projects**  
+  Beginner-friendly programs using strings, dictionaries, and functions
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micezekel&show_icons=true&theme=default" />
-</p>
+![Zekel's GitHub stats](https://github-readme-stats.vercel.app/api?username=micezekel&show_icons=true)
 
 ---
 
 ## 📫 Contact
-- 📧 Email: micezeckel12345@gmail.com  
+- 📧 Email: Micezeckel12345@gmail.com  
 - 🌐 GitHub: https://github.com/micezekel  
 
 ---

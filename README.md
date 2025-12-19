@@ -1,13 +1,12 @@
 # Hi there 👋 I'm Mic Ezeckel T. Peteros
 
 ## 🎓 About Me
-I'm an Information Technology graduate from the Philippines 🇵🇭.  
-I enjoy learning and building **real-world applications**, especially in mobile, Python, and IoT projects.
+I enjoy learning and building **real-world applications** while continuously improving my skills.
 
-- 💻 I enjoy coding in **Python** and **Java**
-- 📱 I build Android apps using **Android Studio**
-- 🌱 Interested in **IoT, Smart Agriculture, and Aquaculture Systems**
-- 🚀 Always learning and improving my skills
+- 💻 Python & Java programmer  
+- 📱 Android Studio developer  
+- 🌱 Interested in IoT, Smart Agriculture, and Aquaculture Systems  
+- 🚀 Always learning and building simple, useful projects  
 
 ---
 
@@ -20,28 +19,27 @@ I enjoy learning and building **real-world applications**, especially in mobile,
 ---
 
 ## 🔧 What I Work On / What I Learned
-Here are some of my projects and school/side works:
+Some of my school and side projects:
 
 - 🌾 **AgriConnect App**  
-  Android app where farmers can post and sell products  
-  *(Local storage, user interaction)*
+  Android app for farmers to post and sell products  
 
 - 🐟 **IoT Aquaculture Management System**  
-  Vertical stacking system with temperature monitoring and QR tracking
+  Vertical stacking with temperature monitoring and QR tracking  
 
 - 🧪 **Python Practice Projects**  
-  Beginner-friendly programs using strings, dictionaries, and functions
+  Beginner-friendly programs using strings, dictionaries, and functions  
 
 ---
 
 ## 📊 GitHub Stats
-![Zekel's GitHub stats](https://github-readme-stats.vercel.app/api?username=micezekel&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micezekel&show_icons=true)
 
 ---
 
 ## 📫 Contact
-- 📧 Email: Micezeckel12345@gmail.com  
-- 🌐 GitHub: https://github.com/micezekel  
+- 🌐 GitHub: https://github.com/micezekel
+-  Mail: Micezeckel12345@gmail.com
 
 ---
 
